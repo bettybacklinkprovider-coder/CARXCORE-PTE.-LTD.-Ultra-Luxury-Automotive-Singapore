@@ -1,0 +1,6 @@
+{
+  "name": "CARXCORE PTE. LTD. | Ultra-Luxury Automotive Singapore",
+  "description": "Singapore's premier luxury automotive boutique. Discover exceptional automobiles, bespoke acquisition, and refined private client service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
